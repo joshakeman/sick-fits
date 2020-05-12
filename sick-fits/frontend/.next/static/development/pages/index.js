@@ -67,14 +67,14 @@ var Home = function Home(props) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 5,
+      lineNumber: 3,
       columnNumber: 9
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6,
+      lineNumber: 4,
       columnNumber: 13
     }
   }, "Hey!"));
