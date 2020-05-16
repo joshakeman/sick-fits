@@ -1,2 +1,3 @@
 node_modules
-sick-fits/frontend/.next/static/webpack
+sick-fits/frontend/.next/static/
+sick-fits/frontend/.next/server/
